@@ -58,7 +58,7 @@ number_in_progress("9840012345", asked="What's your mobile number?")
 
 ## Limits
 
-- The clips are people **reading prompted sentences** (AI4Bharat Svarah and Lahaja), resampled to 8 kHz. They are not real phone calls. Callers reading a number off a card probably pause longer than this, so real cut-off rates may be higher.
+- The clips are people **reading prompted sentences** (AI4Bharat Svarah and Lahaja), resampled to 8 kHz. They are not real phone calls. The phone band isn't the cause: on the original 16 kHz audio Smart Turn still cuts off 27% of numbers (English 24%, Hindi 30%). Callers reading a number off a card probably pause longer than this, so real cut-off rates may be higher.
 - English and Hindi only. It knows mobile numbers, PIN codes, OTPs, Aadhaar, UAN, IFSC, and generic "number / ID / account". It works on digits said one at a time or written as digits. It does not hold for amounts ("twenty thousand").
 - It reads the transcript, so it can only hold if the speech-to-text has caught up with the words before the pause. In the live tests (Deepgram streaming) it had.
 - Agents that wait a long time before replying (1.5 s and more) rarely cut people off. They pay for it on every reply instead. numhold is for agents that want to reply fast.
