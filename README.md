@@ -1,6 +1,6 @@
 # numhold
 
-Don't end the caller's turn in the middle of a number.
+Don't end the caller's turn in the middle of a number. For Pipecat and LiveKit Agents.
 
 People read phone numbers, PIN codes and account numbers in chunks: "nine eight four zero one ... two three four five six". A voice agent tuned to reply quickly hears the pause, decides the caller has finished, and answers with half a number.
 
@@ -44,6 +44,30 @@ pipeline = Pipeline([transport.input(), stt, aggregators.user(), llm, tts,
 ```
 
 `NumberHoldSpeechTimeout(user_speech_timeout=...)` does the same over a plain silence timer. `AgentTextRecorder` tells the hold what the agent just asked. On a real call people answer "what's your mobile number?" with the digits alone, so the expected length of the number is in the question.
+
+## Use it with LiveKit Agents
+
+```python
+from livekit.plugins.turn_detector.multilingual import MultilingualModel
+from livekit_numhold import NumberHoldTurnDetector
+
+session = AgentSession(
+    ...,
+    turn_handling={
+        "turn_detection": NumberHoldTurnDetector(MultilingualModel()),
+        "endpointing": {"min_delay": 0.3, "max_delay": 2.0},
+    },
+)
+```
+
+When LiveKit asks whether the caller has finished and a number is clearly unfinished, it answers "not finished", so LiveKit waits up to `max_delay` instead of `min_delay`; the caller carrying on cancels the wait as usual. Otherwise the wrapped model answers, unchanged. LiveKit passes the turn detector the conversation so far, so the agent's question is picked up without any extra wiring. `NumberHoldTurnDetector()` with no model works for agents that end turns on silence alone. It works with the turn detectors that read the transcript (MultilingualModel, EnglishModel), not the streaming audio ones. Tested with livekit-agents 1.8.11.
+
+Two checks, both run with `python` from a LiveKit environment:
+
+- `eval/livekit_session_check.py` runs a real `AgentSession` with LiveKit's own fake VAD, STT, LLM and TTS (needs a livekit/agents checkout beside this repo). A caller says "my mobile number is nine eight four zero one", pauses 1 s, then "two three four five six". Tuned to reply fast, the agent gets two turns without the hold and answers half the number. With `NumberHoldTurnDetector` it gets one turn with all ten digits. A turn with no number is left alone.
+- `eval/livekit_model_check.py` wraps the real MultilingualModel. The model alone already waits after "nine eight four zero one" (0.001, below its English threshold of 0.011), but says "finished" after the PIN code's "six zero zero" (0.075). The wrapper holds there, and returns exactly the model's answer everywhere else.
+
+## The rule on its own
 
 The rule itself is [`numhold.py`](numhold.py), plain Python with no dependencies, so it can sit in front of any framework's turn detection:
 
