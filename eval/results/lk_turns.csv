@@ -1,0 +1,342 @@
+id,dataset,default_cut,model_wrong_any_pause,detail
+svarah_00000_00122,svarah,False,True,"[[0.26, 0.029], [0.26, 0.013]]"
+svarah_00000_00046,svarah,False,True,"[[0.51, 0.545]]"
+svarah_00000_00276,svarah,False,False,[]
+svarah_00000_00257,svarah,False,True,"[[0.32, 0.542]]"
+svarah_00000_00182,svarah,False,False,[]
+svarah_00000_00277,svarah,False,True,"[[0.29, 0.034], [0.22, 0.008], [0.29, 0.338]]"
+svarah_00000_00164,svarah,False,False,"[[0.38, 0.001]]"
+svarah_00000_00164,svarah,True,True,"[[1.12, 0.076], [0.22, 0.009]]"
+svarah_00000_00253,svarah,False,True,"[[0.26, 0.113], [0.26, 0.01]]"
+svarah_00000_00289,svarah,False,True,"[[0.29, 0.017]]"
+svarah_00000_00427,svarah,False,True,"[[0.35, 0.132]]"
+svarah_00000_00408,svarah,False,False,[]
+svarah_00000_00408,svarah,False,True,"[[0.35, 0.052]]"
+svarah_00000_00526,svarah,False,False,[]
+svarah_00000_00546,svarah,True,True,"[[0.77, 0.016]]"
+svarah_00000_00539,svarah,False,False,[]
+svarah_00000_00730,svarah,False,True,"[[0.22, 0.039]]"
+svarah_00000_00717,svarah,False,True,"[[0.48, 0.117], [0.26, 0.272], [0.22, 0.222]]"
+svarah_00000_00677,svarah,False,False,[]
+svarah_00000_00612,svarah,True,True,"[[0.64, 0.078]]"
+svarah_00000_00971,svarah,False,False,[]
+svarah_00000_00521,svarah,False,False,[]
+svarah_00000_01007,svarah,False,False,[]
+svarah_00000_01049,svarah,True,True,"[[0.61, 0.48], [0.26, 0.025], [0.29, 0.007]]"
+svarah_00000_00990,svarah,False,False,[]
+svarah_00000_01224,svarah,False,True,"[[0.32, 0.095], [0.38, 0.024], [0.38, 0.057], [0.22, 0.156]]"
+svarah_00000_01074,svarah,False,True,"[[0.35, 0.087]]"
+svarah_00000_01285,svarah,True,True,"[[0.67, 0.052], [0.54, 0.029], [0.64, 0.277]]"
+svarah_00000_01238,svarah,True,True,"[[0.67, 0.132], [0.22, 0.036]]"
+svarah_00000_01486,svarah,False,True,"[[0.29, 0.15], [0.45, 0.0], [0.22, 0.005]]"
+svarah_00000_01514,svarah,False,False,[]
+svarah_00000_01588,svarah,False,False,[]
+svarah_00000_01562,svarah,False,False,[]
+svarah_00000_01520,svarah,False,True,"[[0.22, 0.074]]"
+svarah_00000_01535,svarah,False,True,"[[0.42, 0.005], [0.29, 0.012]]"
+svarah_00000_01535,svarah,True,True,"[[0.45, 0.573], [0.7, 0.023], [0.51, 0.007], [0.38, 0.056], [0.29, 0.085], [0.26, 0.287]]"
+svarah_00000_01603,svarah,False,False,"[[0.42, 0.001]]"
+svarah_00000_01607,svarah,False,True,"[[0.22, 0.023]]"
+svarah_00000_01623,svarah,False,True,"[[0.22, 0.012]]"
+svarah_00000_01639,svarah,False,True,"[[0.29, 0.265]]"
+svarah_00000_01669,svarah,False,False,[]
+svarah_00000_01641,svarah,False,False,[]
+svarah_00000_01778,svarah,False,True,"[[0.42, 0.069]]"
+svarah_00000_01782,svarah,False,False,[]
+svarah_00000_01750,svarah,False,False,[]
+svarah_00000_01836,svarah,False,True,"[[0.42, 0.042], [0.38, 0.327]]"
+svarah_00000_01779,svarah,True,True,"[[1.02, 0.393], [0.86, 0.003], [0.48, 0.008], [0.8, 0.074], [0.86, 0.178], [0.64, 0.416]]"
+svarah_00000_01974,svarah,False,False,[]
+svarah_00000_01969,svarah,False,False,[]
+svarah_00000_01903,svarah,False,False,[]
+svarah_00000_02118,svarah,False,True,"[[0.22, 0.093]]"
+svarah_00000_02123,svarah,False,False,[]
+svarah_00000_02050,svarah,False,True,"[[0.38, 0.017]]"
+svarah_00000_02207,svarah,False,False,[]
+svarah_00000_02196,svarah,False,False,[]
+svarah_00000_02125,svarah,False,False,[]
+svarah_00001_00046,svarah,False,False,[]
+svarah_00001_00073,svarah,False,False,[]
+svarah_00001_00031,svarah,False,False,[]
+svarah_00001_00092,svarah,False,False,[]
+svarah_00001_00115,svarah,False,True,"[[0.38, 0.261]]"
+svarah_00001_00130,svarah,False,False,[]
+svarah_00001_00167,svarah,False,False,[]
+svarah_00001_00108,svarah,False,True,"[[0.54, 0.102], [0.26, 0.169]]"
+svarah_00001_00094,svarah,False,False,[]
+svarah_00001_00094,svarah,False,False,[]
+svarah_00001_00205,svarah,False,False,[]
+svarah_00001_00205,svarah,False,True,"[[0.51, 0.658]]"
+svarah_00001_00322,svarah,False,False,[]
+svarah_00001_00406,svarah,False,False,"[[0.22, 0.001]]"
+svarah_00001_00507,svarah,False,False,"[[0.38, 0.003], [0.32, 0.005]]"
+svarah_00001_00471,svarah,False,False,"[[0.54, 0.007], [0.35, 0.001]]"
+svarah_00001_00514,svarah,False,False,[]
+svarah_00001_00581,svarah,False,False,[]
+svarah_00001_00632,svarah,False,False,[]
+svarah_00001_00679,svarah,False,False,"[[0.22, 0.001]]"
+svarah_00001_00271,svarah,False,True,"[[0.22, 0.068], [0.22, 0.011]]"
+svarah_00001_00680,svarah,False,True,"[[0.42, 0.093]]"
+svarah_00001_00700,svarah,False,False,[]
+svarah_00001_00709,svarah,False,False,[]
+svarah_00001_00803,svarah,False,False,[]
+svarah_00001_00721,svarah,False,False,[]
+svarah_00001_00209,svarah,False,False,[]
+svarah_00001_00806,svarah,False,False,[]
+svarah_00001_00842,svarah,False,True,"[[0.22, 0.049]]"
+svarah_00001_00886,svarah,False,False,[]
+svarah_00001_00874,svarah,False,False,[]
+svarah_00001_01040,svarah,False,False,[]
+svarah_00001_00933,svarah,False,True,"[[0.35, 0.017]]"
+svarah_00001_01075,svarah,False,True,"[[0.32, 0.015]]"
+svarah_00001_01075,svarah,False,True,"[[0.35, 0.348]]"
+svarah_00001_01101,svarah,False,True,"[[0.32, 0.03]]"
+svarah_00001_01092,svarah,False,False,[]
+svarah_00001_01090,svarah,True,True,"[[1.15, 0.155], [0.32, 0.006], [0.32, 0.038], [0.32, 0.055], [0.26, 0.134]]"
+svarah_00001_01124,svarah,False,False,"[[0.22, 0.002]]"
+svarah_00001_01120,svarah,False,True,"[[0.32, 0.288], [0.22, 0.083]]"
+svarah_00001_01191,svarah,False,True,"[[0.38, 0.168], [0.22, 0.002], [0.38, 0.04], [0.42, 0.135]]"
+svarah_00001_01205,svarah,False,True,"[[0.48, 0.03], [0.32, 0.041]]"
+svarah_00001_01193,svarah,False,True,"[[0.35, 0.482]]"
+svarah_00001_01245,svarah,False,False,[]
+svarah_00001_01280,svarah,False,False,[]
+svarah_00001_01456,svarah,False,False,[]
+svarah_00001_01563,svarah,False,False,[]
+svarah_00001_01390,svarah,False,True,"[[0.29, 0.482]]"
+svarah_00001_01390,svarah,False,True,"[[0.51, 0.154], [0.22, 0.105]]"
+svarah_00001_01582,svarah,False,False,[]
+svarah_00001_01582,svarah,False,False,[]
+svarah_00001_01692,svarah,False,False,[]
+svarah_00001_01704,svarah,False,False,[]
+svarah_00001_01722,svarah,False,False,[]
+svarah_00001_01616,svarah,False,True,"[[0.29, 0.444]]"
+svarah_00001_01747,svarah,False,False,[]
+svarah_00001_01731,svarah,False,False,[]
+svarah_00001_01789,svarah,False,True,"[[0.26, 0.553]]"
+svarah_00001_01932,svarah,False,False,[]
+svarah_00001_01845,svarah,False,True,"[[0.42, 0.062]]"
+svarah_00001_01857,svarah,False,False,"[[0.35, 0.0], [0.58, 0.009]]"
+svarah_00001_01928,svarah,False,True,"[[0.26, 0.081]]"
+svarah_00001_01936,svarah,False,False,[]
+svarah_00001_02063,svarah,False,False,[]
+svarah_00001_02061,svarah,False,False,[]
+svarah_00001_02075,svarah,False,False,[]
+svarah_00001_02131,svarah,False,False,[]
+svarah_00001_02174,svarah,False,False,[]
+svarah_00001_02118,svarah,False,True,"[[0.29, 0.168]]"
+svarah_00002_00058,svarah,False,True,"[[0.22, 0.224]]"
+svarah_00002_00071,svarah,False,False,[]
+svarah_00002_00153,svarah,False,False,[]
+svarah_00002_00061,svarah,False,False,[]
+svarah_00002_00061,svarah,False,False,[]
+svarah_00002_00221,svarah,False,False,[]
+svarah_00002_00190,svarah,False,True,"[[0.42, 0.009], [0.29, 0.097]]"
+svarah_00002_00250,svarah,False,False,[]
+svarah_00002_00250,svarah,False,False,[]
+svarah_00002_00030,svarah,True,True,"[[1.02, 0.393], [0.86, 0.003], [0.48, 0.008], [0.8, 0.074], [0.86, 0.178], [0.64, 0.416]]"
+svarah_00002_00255,svarah,False,True,"[[0.29, 0.052]]"
+svarah_00002_00254,svarah,False,True,"[[0.58, 0.001], [0.45, 0.011], [0.38, 0.136], [0.45, 0.07]]"
+svarah_00002_00295,svarah,False,False,[]
+svarah_00002_00130,svarah,False,False,[]
+svarah_00002_00543,svarah,False,False,[]
+svarah_00002_00543,svarah,False,True,"[[0.45, 0.017]]"
+svarah_00002_00573,svarah,False,False,[]
+svarah_00002_00526,svarah,False,False,[]
+svarah_00002_00526,svarah,False,True,"[[0.77, 0.003], [0.51, 0.038]]"
+svarah_00002_00548,svarah,False,True,"[[0.38, 0.25], [0.48, 0.0], [0.22, 0.023]]"
+svarah_00002_00596,svarah,False,False,[]
+svarah_00002_00395,svarah,False,False,[]
+svarah_00002_00622,svarah,False,True,"[[0.48, 0.013], [0.29, 0.014]]"
+svarah_00002_00622,svarah,False,False,[]
+svarah_00002_00625,svarah,False,True,"[[0.29, 0.094]]"
+svarah_00002_00598,svarah,False,False,[]
+svarah_00002_00749,svarah,False,False,[]
+svarah_00002_00850,svarah,False,False,[]
+svarah_00002_00892,svarah,False,True,"[[0.26, 0.081]]"
+svarah_00002_00855,svarah,True,True,"[[0.77, 0.005], [0.42, 0.014], [0.64, 0.025], [0.45, 0.093]]"
+svarah_00002_01128,svarah,False,False,[]
+svarah_00002_01007,svarah,False,False,[]
+svarah_00002_01203,svarah,False,True,"[[0.22, 0.288]]"
+svarah_00002_01199,svarah,False,False,[]
+svarah_00002_01217,svarah,False,False,[]
+svarah_00002_01229,svarah,False,False,[]
+svarah_00002_01221,svarah,False,False,[]
+svarah_00002_01288,svarah,False,False,[]
+svarah_00002_01374,svarah,False,True,"[[0.48, 0.384], [0.22, 0.02], [0.29, 0.099]]"
+svarah_00002_01330,svarah,False,False,[]
+svarah_00002_01426,svarah,False,False,"[[0.22, 0.002]]"
+svarah_00002_01465,svarah,False,True,"[[0.22, 0.027]]"
+svarah_00002_01477,svarah,False,False,[]
+svarah_00002_01601,svarah,False,True,"[[0.29, 0.078], [0.26, 0.001], [0.26, 0.008]]"
+svarah_00002_01475,svarah,False,True,"[[0.35, 0.175]]"
+svarah_00002_01479,svarah,False,False,[]
+svarah_00002_01709,svarah,False,False,[]
+svarah_00002_01668,svarah,False,False,[]
+svarah_00002_01833,svarah,False,True,"[[0.35, 0.012]]"
+svarah_00002_01584,svarah,False,True,"[[0.42, 0.482]]"
+svarah_00002_01584,svarah,False,False,[]
+svarah_00002_01863,svarah,False,False,[]
+svarah_00002_01876,svarah,False,False,[]
+svarah_00002_01977,svarah,False,False,"[[0.38, 0.001]]"
+svarah_00002_01919,svarah,False,True,"[[0.22, 0.012]]"
+svarah_00002_01919,svarah,False,True,"[[0.26, 0.004], [0.22, 0.005], [0.29, 0.098], [0.35, 0.068]]"
+svarah_00002_02084,svarah,False,False,[]
+svarah_00002_01954,svarah,False,False,[]
+svarah_00002_01954,svarah,False,True,"[[0.38, 0.003], [0.29, 0.001], [0.26, 0.024]]"
+svarah_00002_02031,svarah,False,True,"[[0.29, 0.265]]"
+svarah_00002_02030,svarah,True,True,"[[0.51, 0.129], [0.32, 0.001], [0.35, 0.002], [0.7, 0.027], [0.35, 0.091], [0.42, 0.167]]"
+svarah_00002_02195,svarah,False,False,[]
+svarah_00002_02162,svarah,False,False,[]
+lahaja_00000_00107,lahaja,False,True,"[[0.29, 0.169], [0.38, 0.013], [0.26, 0.024], [0.32, 0.163], [0.26, 0.164], [0.26, 0.268], [0.29, 0.217]]"
+lahaja_00000_00202,lahaja,False,False,[]
+lahaja_00000_00108,lahaja,False,True,"[[0.29, 0.047], [0.42, 0.041], [0.26, 0.004], [0.26, 0.048], [0.32, 0.057]]"
+lahaja_00000_00224,lahaja,False,True,"[[0.26, 0.015], [0.35, 0.068]]"
+lahaja_00000_00414,lahaja,False,False,"[[0.45, 0.0], [0.35, 0.002], [0.42, 0.0]]"
+lahaja_00000_00386,lahaja,False,False,"[[0.67, 0.002], [0.58, 0.0], [0.38, 0.005], [0.29, 0.002], [0.22, 0.01], [0.29, 0.019], [0.32, 0.002], [0.32, 0.032], [0.26, 0.015], [0.32, 0.03]]"
+lahaja_00000_00201,lahaja,False,False,"[[0.38, 0.003]]"
+lahaja_00000_00617,lahaja,False,False,"[[0.48, 0.003]]"
+lahaja_00000_00545,lahaja,False,True,"[[0.26, 0.002], [0.29, 0.016], [0.22, 0.006], [0.22, 0.001], [0.22, 0.019], [0.26, 0.055], [0.35, 0.034]]"
+lahaja_00000_00791,lahaja,False,False,"[[0.22, 0.007]]"
+lahaja_00000_00618,lahaja,True,True,"[[0.67, 0.169], [0.22, 0.053], [0.51, 0.101], [0.64, 0.024], [0.32, 0.228]]"
+lahaja_00000_00618,lahaja,False,False,"[[0.29, 0.025], [0.29, 0.021]]"
+lahaja_00000_00416,lahaja,False,False,"[[0.42, 0.004]]"
+lahaja_00000_00708,lahaja,True,True,"[[1.09, 0.143], [0.26, 0.022], [0.38, 0.047], [0.38, 0.033], [0.32, 0.036]]"
+lahaja_00000_00792,lahaja,False,True,"[[0.54, 0.146]]"
+lahaja_00000_00872,lahaja,False,False,"[[0.22, 0.024]]"
+lahaja_00000_00872,lahaja,False,True,"[[0.38, 0.038], [0.32, 0.056]]"
+lahaja_00000_00873,lahaja,False,False,"[[0.54, 0.001]]"
+lahaja_00000_00944,lahaja,False,False,[]
+lahaja_00000_00990,lahaja,False,False,[]
+lahaja_00000_00990,lahaja,False,False,[]
+lahaja_00000_01152,lahaja,True,True,"[[1.02, 0.0], [0.8, 0.051]]"
+lahaja_00000_01152,lahaja,False,False,[]
+lahaja_00000_01154,lahaja,False,False,"[[0.38, 0.022]]"
+lahaja_00000_01267,lahaja,False,True,"[[0.29, 0.026], [0.32, 0.051], [0.42, 0.006], [0.26, 0.063]]"
+lahaja_00000_01155,lahaja,False,False,"[[0.38, 0.009]]"
+lahaja_00000_01124,lahaja,False,False,[]
+lahaja_00000_01313,lahaja,False,True,"[[0.26, 0.128], [0.35, 0.12]]"
+lahaja_00000_01266,lahaja,False,True,"[[0.48, 0.128]]"
+lahaja_00000_01266,lahaja,False,False,"[[0.29, 0.022]]"
+lahaja_00001_00135,lahaja,False,True,"[[0.51, 0.105]]"
+lahaja_00001_00156,lahaja,False,False,"[[0.38, 0.034]]"
+lahaja_00001_00067,lahaja,False,True,"[[0.42, 0.139], [0.74, 0.004], [0.45, 0.353], [0.35, 0.048], [0.38, 0.121]]"
+lahaja_00001_00065,lahaja,True,True,"[[0.48, 0.007], [0.32, 0.028], [0.64, 0.072]]"
+lahaja_00001_00158,lahaja,False,False,[]
+lahaja_00001_00136,lahaja,False,False,[]
+lahaja_00001_00199,lahaja,False,False,[]
+lahaja_00001_00223,lahaja,False,False,[]
+lahaja_00001_00263,lahaja,False,False,"[[0.42, 0.03]]"
+lahaja_00001_00262,lahaja,False,True,"[[0.26, 0.04]]"
+lahaja_00001_00455,lahaja,False,False,"[[0.45, 0.003]]"
+lahaja_00001_00456,lahaja,False,True,"[[0.26, 0.116], [0.29, 0.224]]"
+lahaja_00001_00317,lahaja,False,False,[]
+lahaja_00001_00316,lahaja,False,True,"[[0.22, 0.078], [0.35, 0.027]]"
+lahaja_00001_00665,lahaja,True,True,"[[0.45, 0.007], [0.58, 0.08], [0.54, 0.519]]"
+lahaja_00001_00694,lahaja,False,False,[]
+lahaja_00001_00497,lahaja,False,True,"[[0.42, 0.061], [0.32, 0.03]]"
+lahaja_00001_00755,lahaja,False,False,[]
+lahaja_00001_00753,lahaja,False,False,[]
+lahaja_00001_00500,lahaja,False,False,"[[0.32, 0.038]]"
+lahaja_00001_00893,lahaja,False,True,"[[0.54, 0.079], [0.29, 0.094], [0.42, 0.078], [0.32, 0.026], [0.32, 0.034], [0.35, 0.093], [0.42, 0.156], [0.29, 0.364]]"
+lahaja_00001_00894,lahaja,False,False,"[[0.32, 0.008]]"
+lahaja_00001_00955,lahaja,False,True,"[[0.26, 0.445]]"
+lahaja_00001_00954,lahaja,False,True,"[[0.26, 0.066], [0.83, 0.002], [0.38, 0.03]]"
+lahaja_00001_00956,lahaja,False,False,[]
+lahaja_00001_01019,lahaja,False,True,"[[1.41, 0.02], [0.38, 0.016], [0.38, 0.042], [0.22, 0.109]]"
+lahaja_00001_00957,lahaja,True,True,"[[0.26, 0.445], [0.93, 0.192]]"
+lahaja_00001_00957,lahaja,False,False,[]
+lahaja_00001_01065,lahaja,True,True,"[[0.61, 0.04], [0.42, 0.206], [0.51, 0.113], [0.7, 0.205], [0.7, 0.113], [0.51, 0.026]]"
+lahaja_00001_01382,lahaja,False,False,[]
+lahaja_00001_01064,lahaja,True,True,"[[0.35, 0.172], [0.54, 0.008], [0.61, 0.03], [0.45, 0.02], [0.7, 0.136], [0.61, 0.002], [0.61, 0.094]]"
+lahaja_00001_01433,lahaja,False,False,[]
+lahaja_00001_01264,lahaja,False,False,"[[0.26, 0.003], [0.29, 0.021], [0.32, 0.011]]"
+lahaja_00001_01432,lahaja,False,False,[]
+lahaja_00001_01506,lahaja,False,False,"[[0.35, 0.005], [0.48, 0.005], [0.38, 0.001], [0.35, 0.022], [0.45, 0.003], [1.18, 0.008], [0.32, 0.019]]"
+lahaja_00001_01507,lahaja,False,True,"[[0.35, 0.169], [0.35, 0.053], [0.32, 0.043], [0.48, 0.087], [0.42, 0.085], [0.38, 0.051]]"
+lahaja_00002_00039,lahaja,False,True,"[[0.54, 0.058], [0.22, 0.002]]"
+lahaja_00002_00117,lahaja,False,False,"[[0.35, 0.0], [0.29, 0.0], [0.42, 0.0], [0.29, 0.001], [0.22, 0.001]]"
+lahaja_00002_00116,lahaja,False,True,"[[0.45, 0.169], [0.22, 0.047], [0.32, 0.315], [0.22, 0.096], [0.42, 0.204]]"
+lahaja_00002_00245,lahaja,True,True,"[[0.77, 0.043], [0.26, 0.01]]"
+lahaja_00002_00322,lahaja,False,True,"[[0.58, 0.014], [0.32, 0.061]]"
+lahaja_00001_01508,lahaja,True,True,"[[0.61, 0.128], [0.42, 0.052], [0.38, 0.02], [0.38, 0.035], [0.42, 0.09]]"
+lahaja_00002_00247,lahaja,False,False,[]
+lahaja_00002_00534,lahaja,False,False,[]
+lahaja_00002_00567,lahaja,False,False,[]
+lahaja_00002_00569,lahaja,False,True,"[[0.38, 0.129]]"
+lahaja_00002_00570,lahaja,False,True,"[[0.32, 0.033], [0.22, 0.071]]"
+lahaja_00002_00616,lahaja,False,True,"[[0.45, 0.007], [0.51, 0.079], [0.74, 0.039]]"
+lahaja_00002_00533,lahaja,False,True,"[[0.29, 0.043], [0.22, 0.032]]"
+lahaja_00002_00533,lahaja,False,False,[]
+lahaja_00002_00800,lahaja,False,False,"[[0.22, 0.018]]"
+lahaja_00002_00803,lahaja,False,False,[]
+lahaja_00002_00824,lahaja,False,False,[]
+lahaja_00002_00824,lahaja,False,False,[]
+lahaja_00002_00827,lahaja,False,False,"[[0.26, 0.022]]"
+lahaja_00002_00848,lahaja,False,False,"[[0.64, 0.002]]"
+lahaja_00002_00847,lahaja,False,False,"[[0.48, 0.026]]"
+lahaja_00002_00877,lahaja,False,True,"[[0.26, 0.05]]"
+lahaja_00002_00804,lahaja,False,True,"[[0.32, 0.001], [0.42, 0.06]]"
+lahaja_00002_00874,lahaja,False,True,"[[0.22, 0.005], [0.29, 0.009], [0.99, 0.017], [0.29, 0.0], [0.45, 0.054], [0.42, 0.007]]"
+lahaja_00002_00900,lahaja,False,False,[]
+lahaja_00002_00901,lahaja,False,False,[]
+lahaja_00002_00932,lahaja,False,True,"[[0.32, 0.329]]"
+lahaja_00002_00934,lahaja,False,False,[]
+lahaja_00002_00987,lahaja,False,True,"[[0.22, 0.047], [0.29, 0.082], [0.38, 0.153]]"
+lahaja_00002_00986,lahaja,False,False,"[[0.51, 0.003], [0.51, 0.026]]"
+lahaja_00002_00989,lahaja,False,True,"[[0.38, 0.001], [0.35, 0.042]]"
+lahaja_00002_01117,lahaja,False,False,"[[0.29, 0.001], [0.42, 0.0], [0.38, 0.0], [0.45, 0.012]]"
+lahaja_00002_01059,lahaja,True,True,"[[0.64, 0.092], [0.35, 0.077]]"
+lahaja_00002_01227,lahaja,False,False,"[[0.74, 0.009], [0.64, 0.008], [0.32, 0.032]]"
+lahaja_00002_01230,lahaja,False,True,"[[0.93, 0.013], [0.51, 0.114]]"
+lahaja_00002_01356,lahaja,False,True,"[[0.29, 0.138], [0.32, 0.342]]"
+lahaja_00002_01310,lahaja,False,False,"[[0.42, 0.001], [0.22, 0.003]]"
+lahaja_00002_01270,lahaja,False,False,[]
+lahaja_00002_01353,lahaja,False,True,"[[0.29, 0.004], [0.32, 0.008], [0.61, 0.006], [0.29, 0.042]]"
+lahaja_00002_01381,lahaja,False,False,[]
+lahaja_00002_01355,lahaja,False,False,[]
+lahaja_00002_01358,lahaja,False,False,"[[0.29, 0.003], [0.22, 0.006]]"
+lahaja_00002_01358,lahaja,False,False,"[[0.42, 0.012], [0.29, 0.03]]"
+lahaja_00003_00000,lahaja,False,False,[]
+lahaja_00003_00001,lahaja,False,True,"[[0.74, 0.014], [0.29, 0.297]]"
+lahaja_00003_00060,lahaja,False,False,"[[0.22, 0.015]]"
+lahaja_00003_00061,lahaja,False,False,[]
+lahaja_00003_00058,lahaja,False,False,[]
+lahaja_00003_00257,lahaja,False,False,"[[0.22, 0.015]]"
+lahaja_00003_00258,lahaja,False,False,"[[0.48, 0.001], [0.22, 0.0], [0.22, 0.002]]"
+lahaja_00003_00160,lahaja,False,True,"[[0.38, 0.104], [0.35, 0.499]]"
+lahaja_00003_00304,lahaja,False,False,[]
+lahaja_00003_00303,lahaja,False,False,"[[0.29, 0.006]]"
+lahaja_00003_00261,lahaja,False,False,"[[0.48, 0.001], [0.22, 0.0], [0.26, 0.002], [0.51, 0.001], [0.32, 0.0], [0.38, 0.003], [0.32, 0.003], [0.38, 0.005], [0.26, 0.022]]"
+lahaja_00003_00259,lahaja,False,True,"[[0.32, 0.047], [0.38, 0.081], [0.35, 0.086], [0.35, 0.368], [0.26, 0.115], [0.38, 0.01], [0.22, 0.004]]"
+lahaja_00003_00305,lahaja,False,False,"[[0.54, 0.03]]"
+lahaja_00003_00430,lahaja,False,False,"[[0.26, 0.001]]"
+lahaja_00003_00431,lahaja,False,False,[]
+lahaja_00003_00513,lahaja,False,False,[]
+lahaja_00003_00513,lahaja,False,True,"[[0.22, 0.043], [0.9, 0.013]]"
+lahaja_00003_00529,lahaja,True,True,"[[0.77, 0.112], [0.38, 0.11], [0.29, 0.159], [0.54, 0.044]]"
+lahaja_00003_00786,lahaja,False,False,[]
+lahaja_00003_00685,lahaja,False,False,"[[0.67, 0.001], [0.35, 0.001], [0.32, 0.001], [0.42, 0.005]]"
+lahaja_00003_00737,lahaja,False,False,"[[0.7, 0.001]]"
+lahaja_00003_00515,lahaja,False,False,"[[0.86, 0.0]]"
+lahaja_00003_00515,lahaja,False,False,"[[0.26, 0.017], [0.86, 0.012], [0.93, 0.022]]"
+lahaja_00003_00790,lahaja,False,False,[]
+lahaja_00003_00907,lahaja,False,False,[]
+lahaja_00003_00865,lahaja,False,True,"[[0.26, 0.007], [0.35, 0.005], [0.51, 0.0], [0.26, 0.001], [0.32, 0.0], [0.38, 0.001], [0.32, 0.002], [0.29, 0.017], [0.26, 0.001], [0.29, 0.01], [0.35, 0.035], [0.26, 0.02], [0.35, 0.079], [0.22, 0.101]]"
+lahaja_00003_00993,lahaja,False,False,[]
+lahaja_00003_00909,lahaja,False,False,[]
+lahaja_00003_00994,lahaja,False,False,"[[0.29, 0.001]]"
+lahaja_00003_00991,lahaja,False,False,"[[0.58, 0.006]]"
+lahaja_00003_00991,lahaja,False,True,"[[0.42, 0.106], [0.22, 0.079], [0.42, 0.121], [0.42, 0.149]]"
+lahaja_00003_01223,lahaja,False,False,[]
+lahaja_00003_01225,lahaja,False,False,[]
+lahaja_00003_01239,lahaja,True,True,"[[0.54, 0.074], [0.29, 0.134], [0.74, 0.24]]"
+lahaja_00003_01343,lahaja,False,False,"[[0.32, 0.015]]"
+lahaja_00003_01276,lahaja,False,False,[]
+lahaja_00003_01240,lahaja,True,True,"[[0.64, 0.142], [0.8, 0.001], [0.42, 0.029], [0.32, 0.053], [0.7, 0.115]]"
+lahaja_00003_01237,lahaja,False,False,"[[0.26, 0.008]]"
+lahaja_00003_01465,lahaja,False,False,[]
+lahaja_00003_01376,lahaja,False,False,"[[0.32, 0.002]]"
+lahaja_00003_01441,lahaja,False,True,"[[0.29, 0.169], [0.26, 0.01], [0.26, 0.025], [0.29, 0.06], [0.29, 0.005], [0.32, 0.024], [0.29, 0.075], [0.22, 0.132]]"
+lahaja_00003_01441,lahaja,False,False,"[[0.42, 0.021], [0.26, 0.013], [0.22, 0.003], [0.38, 0.033], [0.35, 0.004]]"
+lahaja_00003_01467,lahaja,False,False,"[[0.35, 0.033]]"
+lahaja_00003_00868,lahaja,False,True,"[[0.22, 0.033], [0.38, 0.065]]"
