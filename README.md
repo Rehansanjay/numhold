@@ -30,6 +30,8 @@ Left of the arrow: cut off without numhold. Right: with it.
 
 **Control:** at the real end of speech, Smart Turn correctly said "finished" 87% of the time, so the model is working normally on this audio. The mid-number cut-offs are pauses that sound finished.
 
+**On real phone lines:** calls to five voice-AI demo lines in India cut off 1 of 16 paused numbers, but only because the agents waited about 2.1 s after everything. See [docs/real-calls.md](docs/real-calls.md).
+
 ## Use it with Pipecat
 
 ```python
